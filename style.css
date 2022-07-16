@@ -24,14 +24,22 @@ main h2 {
     margin: 0 auto;
 }
 
+
+.Vita-style {
+    color:aquamarine;
+    background-color: antiquewhite;
+    padding: 3px;
+}   
+
+
 .Rook-style {
     color: Red;
     background-color: black;
     padding: 3px;
 }
 .jane-style {
-    color: hotpink;
-    background-color: black;
+    color: rgb(193, 255, 105);
+    background-color: rgb(28, 27, 27);
     padding: 3px;
 }
 
