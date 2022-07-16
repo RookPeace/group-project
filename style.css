@@ -24,6 +24,14 @@ main h2 {
     margin: 0 auto;
 }
 
+
+.Vita-style {
+    color:aquamarine;
+    background-color: antiquewhite;
+    padding: 3px;
+}   
+
+
 .Rook-style {
     color: Red;
     background-color: black;
